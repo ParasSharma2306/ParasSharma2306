@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ParasSharma2306
-- 👀 I’m interested in Programming, Gaming
+- 👀 I’m interested in Programming and Gaming
 - 🌱 I’m currently learning Web Development
 
 <!---
