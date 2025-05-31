@@ -80,11 +80,6 @@ A minimalist goal tracker for people who'd rather *do the work* than talk about 
 
 ---
 
-<p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/ParasSharma2306/count.svg)
-</p>
-
-
 <!---
 ParasSharma2306/ParasSharma2306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
