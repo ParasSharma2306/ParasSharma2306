@@ -64,16 +64,6 @@ A minimalist goal tracker for people who'd rather *do the work* than talk about 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParasSharma2306&show_icons=true&theme=radical" alt="Paras' GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParasSharma2306&theme=radical" alt="Paras' GitHub streak" />
-</p>
-
----
-
 <p align="center">
   ⚙️ This profile is a WIP — just like me.
 </p>
