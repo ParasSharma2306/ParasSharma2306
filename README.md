@@ -55,3 +55,7 @@
 
 parassharma.in  
 parassharma.com
+
+## Contact
+hello@parassharma.com (professional)
+contact@parassharma.in (personal)
