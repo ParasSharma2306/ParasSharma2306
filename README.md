@@ -1,7 +1,13 @@
 <h1 align="center">Paras Sharma</h1>
 
 <p align="center">
-  18-year-old student learning to build real software systems
+  19-year-old student learning to build real software systems
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/ParasSharma2306">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white" alt="Sponsor" />
+  </a>
 </p>
 
 <p align="center">
@@ -43,7 +49,6 @@
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
 </p>
 
-
 ### Embedded
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
@@ -57,5 +62,4 @@ parassharma.in
 parassharma.com
 
 ## Contact
-hello@parassharma.com (professional)
-contact@parassharma.in (personal)
+hello@parassharma.com 
