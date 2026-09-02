@@ -1,5 +1,4 @@
 <h1 align="center">Paras Sharma</h1>
-
 <p align="center">
   19-year-old student learning to build real software systems
 </p>
@@ -20,14 +19,23 @@
 
 ## Building
 
-**[ChatLume](https://chatlume.parassharma.in)** — a free, open-source viewer for exported WhatsApp and Instagram chats. Runs entirely in the browser; nothing is uploaded anywhere.
+**[ChatLume](https://chatlume.parassharma.in)**
+A free, open source viewer for exported WhatsApp and Instagram chats. Runs entirely in the browser; nothing is uploaded anywhere.
+
+**[Zarya](https://tryzarya.app)**
+A wellbeing PWA for journaling, pomodoro sessions, and goal tracking, with a unique witness feature.
+
+**BACKDOOR**
+A terminal based investigation game, now becoming a native desktop app for Windows, macOS, and Linux.
+
+**[VOID.EXE](https://voidexe.site)**
+A four dollar game about investigating a Linux terminal.
 
 ---
 
 ## Skills
 
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -36,7 +44,6 @@
 </p>
 
 **Frontend**
-
 <p>
   <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=BD34FE" />
@@ -45,7 +52,6 @@
 </p>
 
 **Backend**
-
 <p>
   <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=5FA04E" />
   <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=E8E8E8" />
@@ -53,7 +59,6 @@
 </p>
 
 **Infrastructure**
-
 <p>
   <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Nginx-161B22?style=flat-square&logo=nginx&logoColor=2FB344" />
@@ -61,7 +66,6 @@
 </p>
 
 **Embedded**
-
 <p>
   <img src="https://img.shields.io/badge/Arduino-161B22?style=flat-square&logo=arduino&logoColor=00C4CC" />
 </p>
@@ -73,6 +77,10 @@
     <a href="https://parassharma.in">parassharma.in</a>
     &nbsp;·&nbsp;
     <a href="https://parassharma.com">parassharma.com</a>
+    &nbsp;·&nbsp;
+    <a href="https://tryzarya.app">tryzarya.app</a>
+    &nbsp;·&nbsp;
+    <a href="https://voidexe.site">voidexe.site</a>
   </sub>
 </p>
 
