@@ -25,9 +25,6 @@ A free, open source viewer for exported WhatsApp and Instagram chats. Runs entir
 **[Zarya](https://tryzarya.app)**
 A wellbeing PWA for journaling, pomodoro sessions, and goal tracking, with a unique witness feature.
 
-**BACKDOOR**
-A terminal based investigation game, now becoming a native desktop app for Windows, macOS, and Linux.
-
 **[VOID.EXE](https://voidexe.site)**
 A four dollar game about investigating a Linux terminal.
 
